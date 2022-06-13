@@ -7,3 +7,5 @@ editing code
 commits:
 use active language
 e.g. Add new code (instead of new code added)
+
+Yes thats it
